@@ -1,1 +1,1 @@
-Sollutions for 10 days of javascipt challenge on HAckerRAnk.
+sollutions for day 4

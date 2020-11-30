@@ -1,9 +1,9 @@
 function factorial(n)
 {
-    if (n < 2)
+    if (number < 2)
         {
             return 1;
         }
     
-    return n * factorial(n-1);
+    return number * factorial(number-1);
 }
